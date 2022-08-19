@@ -1,2 +1,2 @@
 # Omuretsu.github.io
-Omuretsu🐣 WebSite
+Omuretsu🐣 [WebSite](https://omuretsu.github.io]
